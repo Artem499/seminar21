@@ -1,0 +1,15 @@
+/home/artem/doc1/seminar21/obj/Debug/net6.0/seminar21.csproj.AssemblyReference.cache
+/home/artem/doc1/seminar21/obj/Debug/net6.0/seminar21.GeneratedMSBuildEditorConfig.editorconfig
+/home/artem/doc1/seminar21/obj/Debug/net6.0/seminar21.AssemblyInfoInputs.cache
+/home/artem/doc1/seminar21/obj/Debug/net6.0/seminar21.AssemblyInfo.cs
+/home/artem/doc1/seminar21/obj/Debug/net6.0/seminar21.csproj.CoreCompileInputs.cache
+/home/artem/doc1/seminar21/bin/Debug/net6.0/seminar21
+/home/artem/doc1/seminar21/bin/Debug/net6.0/seminar21.deps.json
+/home/artem/doc1/seminar21/bin/Debug/net6.0/seminar21.runtimeconfig.json
+/home/artem/doc1/seminar21/bin/Debug/net6.0/seminar21.dll
+/home/artem/doc1/seminar21/bin/Debug/net6.0/ref/seminar21.dll
+/home/artem/doc1/seminar21/bin/Debug/net6.0/seminar21.pdb
+/home/artem/doc1/seminar21/obj/Debug/net6.0/seminar21.dll
+/home/artem/doc1/seminar21/obj/Debug/net6.0/ref/seminar21.dll
+/home/artem/doc1/seminar21/obj/Debug/net6.0/seminar21.pdb
+/home/artem/doc1/seminar21/obj/Debug/net6.0/seminar21.genruntimeconfig.cache
