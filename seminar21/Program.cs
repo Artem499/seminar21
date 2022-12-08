@@ -4,22 +4,13 @@
 
 Console.WriteLine("Enter a number from 1 to 7:");
 int day = Convert.ToInt32(Console.ReadLine());
-if(day < 1)
+
+if(day < 1 || day > 7)
     Console.WriteLine("Error! Enter a number from 1 to 7");
-if(day > 7)
-    Console.WriteLine("Error! Enter a number from 1 to 7");
-if(day == 1) 
-    Console.WriteLine("NO");
-if(day == 2)    
-    Console.WriteLine("NO");
-if(day == 3)
-    Console.WriteLine("NO");
-if(day == 4)
-    Console.WriteLine("NO");
-if(day == 5)
-    Console.WriteLine("NO");
-if(day == 6)
-    Console.WriteLine("YES");
-if(day == 7)
-    Console.WriteLine("YES");
+    
+if(day == 1 || day == 2 || day == 3 || day == 4 || day == 5) 
+    Console.WriteLine("Result: NO");
+
+if(day == 6 || day == 7)
+    Console.WriteLine("Result: YES");
 
